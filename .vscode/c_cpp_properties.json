@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/fcl/**",
+                "${workspaceFolder}/fcl/include/fcl/math/bv",
+                "${workspaceFolder}/fcl/test/gtest/include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/fcl/include/**",
+                "${workspaceFolder}/fcl/include/fcl/math"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "I:\\Game\\Clang\\LLVM\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
